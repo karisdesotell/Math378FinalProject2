@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+  python: "C:/Users/C25Karis.Desotell/Documents/Final Project Math378/venv/Scripts/python.exe"
+
+website:
+  title: "Actual Final Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
