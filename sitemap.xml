@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://karisdesotell.github.io/Math378FinalProject2/model.html</loc>
-    <lastmod>2024-04-23T20:13:09.330Z</lastmod>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/penguins_eda.html</loc>
+    <lastmod>2024-04-26T02:46:12.494Z</lastmod>
   </url>
   <url>
-    <loc>https://karisdesotell.github.io/Math378FinalProject2/index.html</loc>
-    <lastmod>2024-04-25T20:26:23.666Z</lastmod>
-  </url>
-  <url>
-    <loc>https://karisdesotell.github.io/Math378FinalProject2/eda-db.html</loc>
-    <lastmod>2024-04-25T18:16:33.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://karisdesotell.github.io/Math378FinalProject2/about.html</loc>
-    <lastmod>2024-04-26T02:02:43.096Z</lastmod>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/model-db.html</loc>
+    <lastmod>2024-04-26T01:20:38.178Z</lastmod>
   </url>
   <url>
     <loc>https://karisdesotell.github.io/Math378FinalProject2/eda.html</loc>
     <lastmod>2024-04-25T18:39:05.440Z</lastmod>
   </url>
   <url>
-    <loc>https://karisdesotell.github.io/Math378FinalProject2/model-db.html</loc>
-    <lastmod>2024-04-26T01:20:38.178Z</lastmod>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/about.html</loc>
+    <lastmod>2024-04-26T02:02:43.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/eda-db.html</loc>
+    <lastmod>2024-04-25T18:16:33.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/index.html</loc>
+    <lastmod>2024-04-25T20:26:23.666Z</lastmod>
+  </url>
+  <url>
+    <loc>https://karisdesotell.github.io/Math378FinalProject2/model.html</loc>
+    <lastmod>2024-04-23T20:13:09.330Z</lastmod>
   </url>
 </urlset>
